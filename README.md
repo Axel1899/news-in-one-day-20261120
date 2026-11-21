@@ -2,7 +2,7 @@
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![rank](https://make.fun/badge/news-image-20261120/Axel1899/news-in-one-day-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
-[![Follow Axel1899 on make.fun](https://make.fun/badge/follow/Axel1899.svg?bg=0066ff&text=ffffff)](https://make.fun/@Axel1899?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Axel1899/news-in-one-day-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up **Friday, 20 November 2026**: a classic newspaper
 front page — one lead story across the top, four more in a grid below —
